@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import ShowComment from './Toggle/ShowCommentToggle';
+import ShowComment from '../src/components/Toggle/ShowCommentToggle';
 import "./styles.css";
 
 function App() {
